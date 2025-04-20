@@ -4,7 +4,7 @@
 
 ## Descripción
 
-Este proyecto implementa un formulario de registro utilizando **Flask** y **Flask-WTF**, con validaciones personalizadas en los campos más comunes: nombre, correo y contraseña. Es parte de la práctica de la Lección 2 del Módulo 2 del curso de desarrollo con Flask.
+Este proyecto implementa un formulario de registro utilizando **Flask** y **Flask-WTF**, con validaciones personalizadas en los campos más comunes: nombre, correo y contraseña. 
 Se utilizó Python, Flask, Flask, WTF, WTF forms, email-validator. 
 ---
 
